@@ -4,11 +4,7 @@
 #include <sys/socket.h>
 #include <unistd.h>
 
-/*
-  ip: 192.168.1.86
-  port: 4544
-  port: 30454
-*/
+
 
 int main()
 {
