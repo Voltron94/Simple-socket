@@ -1,4 +1,4 @@
-# Classic-C-socket
+# Classic C++ socket
 Educational purpose
 
 # Ressource
