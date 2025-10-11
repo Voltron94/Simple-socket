@@ -1,5 +1,5 @@
-# Classic C++ socket
-Educational purpose
+# Introduction
+Classic C++ socket
 
 # Ressource
 
