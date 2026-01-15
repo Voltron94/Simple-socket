@@ -9,7 +9,7 @@
 int main()
 {
   std::cout << "Loading..." << std::endl;
-  int serverSocket = socket(AF_INET, SOCK_STREAM, 0); // SOCK_STREAM defines a TCP socket. AF_INET specifies the IPv4 protocol family.
+  int serverSocket = socket(AF_INET, SOCK_STREAM, 0); // SOCK_STREAM defines a TCP socket.
 
   std::cout << "Network configuration..." << std::endl;
   sockaddr_in serverAddress; // Data structure to store socket address.
